@@ -1,0 +1,1 @@
+this is my first directory for git in the zero_project
